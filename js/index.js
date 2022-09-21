@@ -24,4 +24,4 @@ function getMousePos(e){
 }
 
 document.addEventListener("mousemove", getMousePos);
-document.addEventListener("touchmove", getMousePos)
+document.addEventListener("touchmove", getMousePos);
